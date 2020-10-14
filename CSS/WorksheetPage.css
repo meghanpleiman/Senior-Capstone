@@ -1,0 +1,218 @@
+a{
+    color:white;
+}
+
+form{
+    position: fixed;
+    left: 1100px;
+    top: 750px;
+}
+
+img{
+    position:fixed;
+    left: 70px;
+    top: 470px;
+    height:50px;
+    width:1050px;
+}
+
+#btnone
+{
+    position:fixed;
+    left: 125px;
+    top: 300px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btntwo
+{
+    position: fixed;
+    left: 125px;
+    top: 518px;
+    padding-top: 160px;
+    color:white;
+
+    
+    display: block;
+    background-image: url(../Images/House2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btnthree
+{
+    position:fixed;
+    left:325px;
+    top: 300px;
+    padding-top: 160px;
+    color:white;
+   
+    display: block;
+    background-image: url(../Images/House9.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btnfour
+{
+    position:fixed;
+    left: 325px;
+    top: 522px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btnfive
+{
+    position:fixed;
+    left: 525px;
+    top: 300px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House4.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+        
+    width: 175px;
+    height: 175px;
+}
+
+#btnsix
+{
+    position:fixed;
+    left: 525px;
+    top: 518px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House5.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btnseven
+{
+    position:fixed;
+    left: 725px;
+    top: 300px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House6.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btneight
+{
+    position:fixed;
+    left: 725px;
+    top: 518px;
+    padding-top: 160px;
+    color:white;
+   
+    display: block;
+    background-image: url(../Images/House7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btnnine
+{
+    position:fixed;
+    left: 925px;
+    top: 300px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House8.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+#btnten
+{
+    position:fixed;
+    left: 925px;
+    top: 518px;
+    padding-top: 160px;
+    color:white;
+    
+    display: block;
+    background-image: url(../Images/House10.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    border:none;
+    
+    width: 175px;
+    height: 175px;
+}
+
+form {
+    position:absolute;
+    left:1025px;
+    top:700px;
+}
+textarea{
+    resize:none;
+}
+

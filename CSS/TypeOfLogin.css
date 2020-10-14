@@ -1,0 +1,80 @@
+    body{
+        background-color: #2F66A9;
+    }
+
+    header{
+        background-color: #398AD7;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        font-size: 60px;
+        padding: 10px;
+        border: 5px solid black;
+        border-radius: 25px;
+    }    
+    
+    p.sponsor{
+        font-size: 30px;
+        text-align: center;
+        vertical-align: text-top;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+    .topnav{
+        overflow: hidden;
+        background-color: #333;
+        border-radius: 25px;
+    }
+
+    .container{
+        background: #85C1E9;
+        position: relative;
+        padding: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-radius: 25px;
+        border: 5px solid black;
+        text-align: center;
+        width: 50%;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    p.Login{
+        text-align: center;
+        font-size: 100px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-radius: 25px;
+    }
+    
+    .forms{
+        border-radius: 25px;
+        width: 50%;
+        position: center;
+        padding: 40px;
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
+    
+    input[type=submit] {
+        padding: 30px;
+        margin: auto;
+        border: none;
+        font-size: 30px;
+        background-color: #F1F1F1;
+        border-radius: 25px;
+    }
+    
+    footer {
+        background-color: #F1F1F1;
+        text-align: center;
+        padding: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border: 5px solid black;
+        border-radius: 25px;
+        margin-bottom: auto;
+        display: block;
+        font-style: italic;
+    }

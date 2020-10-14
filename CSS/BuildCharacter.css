@@ -1,0 +1,94 @@
+body {
+    background-color: #2F66A9;
+    background-size: cover;
+    
+}
+
+h1 {
+    background-color: #398AD7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 60px;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: #85C1E9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+    border: 5px solid black;
+    padding: 5px 0px 200px 100px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+input[type=submit]{
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px; 
+    margin-top: 150px;
+    width: 150px; 
+    height: 30px;
+    font-size: 14px; 
+    font-weight: bold;
+    color: white;
+    background-color: #2F66A9;
+    border: 2px solid black;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .3), inset 0 1px 0 rgba(255, 255, 255, .5);
+    cursor: pointer;
+}
+
+input[type=color] {
+    width: 70px;
+    height: 70px; 
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+section1{
+    margin: 0 auto;
+}
+
+section2{
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+}
+
+
+.button {
+    background-color: #2F66A9;
+    border: 5px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    top: 50%;
+    left: 40%;
+  }
+
+ select{
+    width: 250px;
+ }
+
+ option{
+    width: 250px;
+ }
+
+ #character{
+    margin-left: 350px;
+    margin-top: 60px;
+    height: auto;
+    width: 350px;
+    background-color:white;
+    border: 5px solid black;
+    position: relative;
+ }

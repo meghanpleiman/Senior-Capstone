@@ -1,0 +1,118 @@
+
+
+form{
+    position: fixed;
+    left: 1100px;
+    top: 750px;
+}
+
+
+#btnone
+{
+    position:fixed;
+    left: 5px;
+    top: 350px;
+    padding-top: 82px;
+    
+    display: block;
+    background-image: url(../Images/House.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    
+    border: 2px solid black;
+
+    width: 100px;
+    height: 100px;
+}
+
+#btntwo
+{
+    position: fixed;
+    left: 50px;
+    top: 500px;
+}
+
+#btnthree
+{
+    position:fixed;
+    left: 150px;
+    top: 350px;
+}
+
+#btnfour
+{
+    position:fixed;
+    left: 250px;
+    top: 500px;
+}
+
+#btnfive
+{
+    position:fixed;
+    left: 350px;
+    top: 350px;
+}
+
+#btnsix
+{
+    position:fixed;
+    left: 450px;
+    top: 500px;
+}
+
+#btnseven
+{
+    position:fixed;
+    left: 550px;
+    top: 350px;
+}
+
+#btneight
+{
+    position:fixed;
+    left: 650px;
+    top: 500px;
+}
+
+#btnnine
+{
+    position:fixed;
+    left: 750px;
+    top: 350px;
+}
+
+#btnten
+{
+    position:fixed;
+    left: 850px;
+    top: 500px;
+}
+
+#btneleven
+{
+    position:fixed;
+    left: 950px;
+    top: 350px;
+}
+
+#btntwelve
+{
+    position:fixed;
+    left: 1050px;
+    top: 500px;
+}
+
+#btnthirteen
+{
+    position:fixed;
+    left: 1150px;
+    top: 350px;
+}
+
+form {
+    position:absolute;
+    left:1100px;
+    top:700px;
+}
+

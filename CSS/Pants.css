@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#temp{
+    position: absolute; 
+    top: 40%; 
+    left: 34%; 
+    width: 450px; 
+    height: 500px; 
+    background: white; 
+    border: 8px solid black;
+    text-align: center;
+}
